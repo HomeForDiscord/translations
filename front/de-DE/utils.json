@@ -1,0 +1,7 @@
+{
+  "greeting": {
+    "morning": "Guten Morgen, {{username}}",
+    "afternoon": "Guten Nachmittag, {{username}}",
+    "evening": "Guten Abend, {{username}}"
+  }
+}
