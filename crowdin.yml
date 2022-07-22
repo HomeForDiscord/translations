@@ -1,3 +1,3 @@
 files:
   - source: /front/**/*.json
-    translation: /front/%three_letters_code%/%original_path%/%original_file_name%
+    translation: /front/%locale%/%original_path%/%original_file_name%
