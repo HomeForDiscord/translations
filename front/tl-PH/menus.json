@@ -1,0 +1,13 @@
+{
+  "userMenu": {
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "theme": {
+      "light": "Light",
+      "dark": "dark"
+    },
+    "primaryColor": "Primary Color",
+    "debug": "Debug"
+  }
+}
