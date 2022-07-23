@@ -1,13 +1,13 @@
 {
   "userMenu": {
-    "dashboard": "Dashboard",
-    "profile": "Profile",
-    "notifications": "Notifications",
+    "dashboard": "لوحة التحكم",
+    "profile": "الملف",
+    "notifications": "الإشعارات",
     "theme": {
-      "light": "Light",
-      "dark": "dark"
+      "light": "فاتح",
+      "dark": "Dark"
     },
-    "primaryColor": "Primary Color",
-    "debug": "Debug"
+    "primaryColor": "اللون الأساسي",
+    "debug": "عالج"
   }
 }
