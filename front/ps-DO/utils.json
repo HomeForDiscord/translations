@@ -1,0 +1,7 @@
+{
+  "greeting": {
+    "morning": "Ĝôôð ɱôŕñîñĝ، {{username}}",
+    "afternoon": "Ĝôôð àƒţéŕñôôñ، {{username}}",
+    "evening": "Ĝôôð éṽéñîñĝ، {{username}}"
+  }
+}

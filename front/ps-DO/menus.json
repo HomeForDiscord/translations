@@ -1,0 +1,13 @@
+{
+  "userMenu": {
+    "dashboard": "Ðàšĥƀôàŕð",
+    "profile": "Þŕôƒîļé",
+    "notifications": "Ñôţîƒîçàţîôñš",
+    "theme": {
+      "light": "Ļîĝĥţ",
+      "dark": "ðàŕķ"
+    },
+    "primaryColor": "Þŕîɱàŕý Çôļôŕ",
+    "debug": "Ðéƀûĝ"
+  }
+}
