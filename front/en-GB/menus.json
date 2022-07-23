@@ -5,7 +5,7 @@
     "notifications": "Notifications",
     "theme": {
       "light": "Light",
-      "dark": "dark"
+      "dark": "Dark"
     },
     "primaryColor": "Primary Colour",
     "debug": "Debug"
