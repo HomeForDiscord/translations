@@ -2,6 +2,6 @@
   "greeting": {
     "morning": "Buenos días, {{username}}",
     "afternoon": "Buenas tardes, {{username}}",
-    "evening": "Good evening, {{username}}"
+    "evening": "Buenas noches, {{username}}"
   }
 }
