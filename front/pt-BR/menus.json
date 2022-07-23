@@ -1,13 +1,13 @@
 {
   "userMenu": {
-    "dashboard": "Dashboard",
-    "profile": "Profile",
-    "notifications": "Notifications",
+    "dashboard": "Painel",
+    "profile": "Perfil",
+    "notifications": "Notificações",
     "theme": {
-      "light": "Light",
-      "dark": "Dark"
+      "light": "Leve",
+      "dark": "Escuro"
     },
-    "primaryColor": "Primary Color",
-    "debug": "Debug"
+    "primaryColor": "Cor Primária",
+    "debug": "Depurar"
   }
 }
