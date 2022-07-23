@@ -1,13 +1,13 @@
 {
   "userMenu": {
-    "dashboard": "Dashboard",
-    "profile": "Profile",
-    "notifications": "Notifications",
+    "dashboard": "Приборная доска",
+    "profile": "Профиль",
+    "notifications": "Уведомления",
     "theme": {
-      "light": "Light",
-      "dark": "Dark"
+      "light": "Легкий",
+      "dark": "Темный"
     },
-    "primaryColor": "Primary Color",
-    "debug": "Debug"
+    "primaryColor": "Основной цвет",
+    "debug": "Отлаживать"
   }
 }
