@@ -1,13 +1,23 @@
 {
   "userMenu": {
-    "dashboard": "Dashboard",
-    "profile": "Profile",
-    "notifications": "Notifications",
-    "theme": {
-      "light": "Light",
-      "dark": "Dark"
+    "dashboard": "Приборная доска",
+    "profile": "Профиль",
+    "notifications": {
+      "clearMessage": "Notifications clear one day after read.",
+      "read": "Read Notifications",
+      "empty": "No unread notifications",
+      "markAllRead": "Mark All Read",
+      "notifications": "Notifications"
     },
-    "primaryColor": "Primary Color",
-    "debug": "Debug"
+    "theme": {
+      "light": "Легкий",
+      "dark": "Темный"
+    },
+    "primaryColor": "Основной цвет",
+    "debug": "Отлаживать",
+    "language": "Language",
+    "login": "Login",
+    "logout": "Logout",
+    "authenticating": "Authenticating..."
   }
 }
