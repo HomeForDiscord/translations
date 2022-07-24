@@ -2,13 +2,22 @@
   "userMenu": {
     "dashboard": "لوحة التحكم",
     "profile": "الملف",
-    "notifications": "الإشعارات",
+    "notifications": {
+      "clearMessage": "Notifications clear one day after read.",
+      "read": "Read Notifications",
+      "empty": "No unread notifications",
+      "markAllRead": "Mark All Read",
+      "notifications": "Notifications"
+    },
     "theme": {
       "light": "فاتح",
       "dark": "غامق"
     },
     "primaryColor": "اللون الأساسي",
     "debug": "عالج",
-    "language": "اللغة"
+    "language": "اللغة",
+    "login": "Login",
+    "logout": "Logout",
+    "authenticating": "Authenticating..."
   }
 }
