@@ -8,6 +8,7 @@
       "dark": "غامق"
     },
     "primaryColor": "اللون الأساسي",
-    "debug": "عالج"
+    "debug": "عالج",
+    "language": "Language"
   }
 }
