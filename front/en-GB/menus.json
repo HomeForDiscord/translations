@@ -8,6 +8,7 @@
       "dark": "Dark"
     },
     "primaryColor": "Primary Colour",
-    "debug": "Debug"
+    "debug": "Debug",
+    "language": "Language"
   }
 }
