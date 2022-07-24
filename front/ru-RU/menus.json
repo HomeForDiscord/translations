@@ -8,6 +8,7 @@
       "dark": "Темный"
     },
     "primaryColor": "Основной цвет",
-    "debug": "Отлаживать"
+    "debug": "Отлаживать",
+    "language": "Language"
   }
 }
