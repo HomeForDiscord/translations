@@ -3,11 +3,11 @@
     "dashboard": "Painel",
     "profile": "Perfil",
     "notifications": {
-      "clearMessage": "Notifications clear one day after read.",
-      "read": "Read Notifications",
-      "empty": "No unread notifications",
-      "markAllRead": "Mark All Read",
-      "notifications": "Notifications"
+      "clearMessage": "As notificações são apagadas um dia após a leitura.",
+      "read": "Ler Notificações",
+      "empty": "Nenhuma notificação não lida",
+      "markAllRead": "Marcar Todas Como Lidas",
+      "notifications": "Notificações"
     },
     "theme": {
       "light": "Leve",
@@ -15,9 +15,9 @@
     },
     "primaryColor": "Cor Primária",
     "debug": "Depurar",
-    "language": "Language",
-    "login": "Login",
-    "logout": "Logout",
-    "authenticating": "Authenticating..."
+    "language": "Linguagem",
+    "login": "Conecte-se",
+    "logout": "Sair",
+    "authenticating": "Autenticação..."
   }
 }

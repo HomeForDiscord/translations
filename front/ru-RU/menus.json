@@ -3,7 +3,7 @@
     "dashboard": "Приборная доска",
     "profile": "Профиль",
     "notifications": {
-      "clearMessage": "Notifications clear one day after read.",
+      "clearMessage": "Notifications clear one day after reading.",
       "read": "Read Notifications",
       "empty": "No unread notifications",
       "markAllRead": "Mark All Read",
