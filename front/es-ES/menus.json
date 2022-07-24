@@ -3,9 +3,9 @@
     "dashboard": "Tablero",
     "profile": "Perfil",
     "notifications": {
-      "clearMessage": "Notifications clear one day after read.",
-      "read": "Read Notifications",
-      "empty": "No unread notifications",
+      "clearMessage": "Las notificaciones se borran un día después de la lectura.",
+      "read": "Leer Notificaciones",
+      "empty": "No hay notificaciones sin leer",
       "markAllRead": "Mark All Read",
       "notifications": "Notifications"
     },
