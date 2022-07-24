@@ -16,8 +16,8 @@
     "primaryColor": "Color Primario",
     "debug": "Depurar",
     "language": "Lenguaje",
-    "login": "Iniciar Sesión",
-    "logout": "Cerrar Sesión",
+    "login": "Acceder",
+    "logout": "Salir",
     "authenticating": "Autenticando..."
   }
 }
