@@ -3,10 +3,10 @@
     "dashboard": "Tableau de bord",
     "profile": "Profil",
     "notifications": {
-      "clearMessage": "Notifications clear one day after read.",
-      "read": "Read Notifications",
-      "empty": "No unread notifications",
-      "markAllRead": "Mark All Read",
+      "clearMessage": "Les notifications disparaissent un jour après la lecture.",
+      "read": "Lire Les Notifications",
+      "empty": "Aucune notification non lue",
+      "markAllRead": "Marquer tout comme lu",
       "notifications": "Notifications"
     },
     "theme": {
@@ -15,9 +15,9 @@
     },
     "primaryColor": "Couleur Primaire",
     "debug": "Déboguer",
-    "language": "Language",
-    "login": "Login",
-    "logout": "Logout",
-    "authenticating": "Authenticating..."
+    "language": "Langue",
+    "login": "Connexion",
+    "logout": "Déconnecter",
+    "authenticating": "Authentification..."
   }
 }
