@@ -2,13 +2,22 @@
   "userMenu": {
     "dashboard": "Tableau de bord",
     "profile": "Profil",
-    "notifications": "Avis",
+    "notifications": {
+      "clearMessage": "Notifications clear one day after read.",
+      "read": "Read Notifications",
+      "empty": "No unread notifications",
+      "markAllRead": "Mark All Read",
+      "notifications": "Notifications"
+    },
     "theme": {
       "light": "Lumière",
       "dark": "Sombre"
     },
     "primaryColor": "Couleur Primaire",
     "debug": "Déboguer",
-    "language": "Language"
+    "language": "Language",
+    "login": "Login",
+    "logout": "Logout",
+    "authenticating": "Authenticating..."
   }
 }
