@@ -1,13 +1,23 @@
 {
   "userMenu": {
-    "dashboard": "Ðàšĥƀôàŕð",
-    "profile": "Þŕôƒîļé",
-    "notifications": "Ñôţîƒîçàţîôñš",
-    "theme": {
-      "light": "Ļîĝĥţ",
-      "dark": "ðàŕķ"
+    "dashboard": "迪诶丝尺比哦诶儿迪",
+    "profile": "屁儿哦弗艾勒伊",
+    "notifications": {
+      "clearMessage": "娜哦提艾弗艾西诶提艾哦娜丝 西勒伊诶儿 哦娜伊 迪诶吾 诶弗提伊儿 儿伊诶迪艾娜吉。",
+      "read": "儿伊诶迪 娜哦提艾弗艾西诶提艾哦娜丝",
+      "empty": "娜哦 吾娜儿伊诶迪 娜哦提艾弗艾西诶提艾哦娜丝",
+      "markAllRead": "马诶儿开 诶勒勒 儿伊诶迪",
+      "notifications": "娜哦提艾弗艾西诶提艾哦娜丝"
     },
-    "primaryColor": "Þŕîɱàŕý Çôļôŕ",
-    "debug": "Ðéƀûĝ"
+    "theme": {
+      "light": "勒艾吉尺提",
+      "dark": "迪诶儿开"
+    },
+    "primaryColor": "屁儿艾马诶儿吾 西哦勒哦儿",
+    "debug": "迪伊比吾吉",
+    "language": "勒诶娜吉吾诶吉伊",
+    "login": "勒哦吉艾娜",
+    "logout": "勒哦吉哦吾提",
+    "authenticating": "诶吾提尺伊娜提艾西诶提艾娜吉。。。"
   }
 }

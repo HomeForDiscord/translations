@@ -1,7 +1,7 @@
 {
   "greeting": {
-    "morning": "Ĝôôð ɱôŕñîñĝ، {{username}}",
-    "afternoon": "Ĝôôð àƒţéŕñôôñ، {{username}}",
-    "evening": "Ĝôôð éṽéñîñĝ، {{username}}"
+    "morning": "吉哦哦迪 马哦儿娜艾娜吉， {{username}}",
+    "afternoon": "吉哦哦迪 诶弗提伊儿娜哦哦娜， {{username}}",
+    "evening": "吉哦哦迪 伊维伊娜艾娜吉， {{username}}"
   }
 }
