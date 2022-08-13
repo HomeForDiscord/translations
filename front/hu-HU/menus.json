@@ -1,7 +1,7 @@
 {
   "userMenu": {
-    "dashboard": "Dashboard",
-    "profile": "Profile",
+    "dashboard": "Műszerfal",
+    "profile": "Profil",
     "notifications": {
       "clearMessage": "Notifications clear one day after reading.",
       "read": "Read Notifications",
@@ -10,14 +10,14 @@
       "notifications": "Notifications"
     },
     "theme": {
-      "light": "Light",
-      "dark": "Dark"
+      "light": "Fény",
+      "dark": "Sötét"
     },
     "primaryColor": "Primary Color",
     "debug": "Debug",
     "language": "Language",
-    "login": "Login",
-    "logout": "Logout",
+    "login": "Bejelentkezés",
+    "logout": "Kijelentkezés",
     "authenticating": "Authenticating..."
   }
 }

@@ -1,23 +1,23 @@
 {
   "userMenu": {
-    "dashboard": "Dashboard",
-    "profile": "Profile",
+    "dashboard": "Ταμπλό",
+    "profile": "Προφίλ",
     "notifications": {
-      "clearMessage": "Notifications clear one day after reading.",
-      "read": "Read Notifications",
-      "empty": "No unread notifications",
-      "markAllRead": "Mark All Read",
-      "notifications": "Notifications"
+      "clearMessage": "Οι ειδοποιήσεις καθαρίζονται μετά από μία μέρα αφού τις έχεις διαβάσει.",
+      "read": "Διαβασμένες Ειδοποιήσεις",
+      "empty": "Καμία αδιάβαστη ειδοποίηση",
+      "markAllRead": "Σήμανε όλες ως διαβασμένες",
+      "notifications": "Ειδοποιήσεις"
     },
     "theme": {
-      "light": "Light",
-      "dark": "Dark"
+      "light": "Φωτεινό",
+      "dark": "Σκοτεινό"
     },
-    "primaryColor": "Primary Color",
-    "debug": "Debug",
-    "language": "Language",
-    "login": "Login",
-    "logout": "Logout",
-    "authenticating": "Authenticating..."
+    "primaryColor": "Κυρίως Χρώμα",
+    "debug": "Εντοπισμός Σφαλμάτων",
+    "language": "Γλώσσα",
+    "login": "Σύνδεση",
+    "logout": "Αποσύνδεση",
+    "authenticating": "Έλεγχος Ταυτότητας..."
   }
 }
