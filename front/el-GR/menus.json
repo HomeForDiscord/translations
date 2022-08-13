@@ -14,10 +14,10 @@
       "dark": "Σκοτεινό"
     },
     "primaryColor": "Κυρίως Χρώμα",
-    "debug": "Debug",
-    "language": "Language",
-    "login": "Login",
-    "logout": "Logout",
-    "authenticating": "Authenticating..."
+    "debug": "Εντοπισμός Σφαλμάτων",
+    "language": "Γλώσσα",
+    "login": "Σύνδεση",
+    "logout": "Αποσύνδεση",
+    "authenticating": "Έλεγχος Ταυτότητας..."
   }
 }
