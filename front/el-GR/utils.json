@@ -1,7 +1,7 @@
 {
   "greeting": {
-    "morning": "Good morning, {{username}}",
-    "afternoon": "Good afternoon, {{username}}",
-    "evening": "Good evening, {{username}}"
+    "morning": "Καλημέρα, {{username}}",
+    "afternoon": "Καλό απόγευμα, {{username}}",
+    "evening": "Καλό βράδυ, {{username}}"
   }
 }
